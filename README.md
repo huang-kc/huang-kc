@@ -1,4 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Kaichen <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+This is a small space I designed myself, where everyone can get to know me a bit :rofl:
+
+
+- 🔭 &nbsp;I'm a third-year master's student at [LAMDA](http://www.lamda.nju.edu.cn/CH.MainPage.ashx) Lab, [Nanjing University](http://www.nju.edu.cn/), supervised by Professor [De-Chuan Zhan](https://www.yuque.com/zhandc/home/nk8z4o).
+- 🎓 &nbsp;I’m currently interested in **reinforcement learning** (imitation and unsupervised RL) and **multimodal large language models** (interpretability, etc.).
+- 👨‍💻 &nbsp;Find out more about me on my [homepage](http://www.lamda.nju.edu.cn/huangkc/).
+- 💬 &nbsp;Feel free to reach out to me via [email](huangkc@lamda.nju.edu.cn)—I'm open to making new friends and discussing research collaborations!
+
+
 ![huang-kc's GitHub stats](https://github-readme-stats.vercel.app/api?username=huang-kc)
 
 <picture>
