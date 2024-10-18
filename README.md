@@ -7,9 +7,11 @@ This is a small space I designed myself, where everyone can get to know me a bit
 - 👨‍💻 &nbsp;Find out more about me on my [homepage](http://www.lamda.nju.edu.cn/huangkc/).
 - 💬 &nbsp;Feel free to reach out to me via [email](huangkc@lamda.nju.edu.cn)—I'm open to making new friends and discussing research collaborations!
 
+![huang-kc's GitHub stats](https://github-readme-stats.vercel.app/api?username=huang-kc)
+
 <details>
   <summary><b>🌟&nbsp;&nbsp;Statistics</b></summary>
-  ![huang-kc's GitHub stats](https://github-readme-stats.vercel.app/api?username=huang-kc)
+  TODO
 </details>
 
 <details>
