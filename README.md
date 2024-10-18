@@ -7,18 +7,13 @@ This is a small space I designed myself, where everyone can get to know me a bit
 - 👨‍💻 &nbsp;Find out more about me on my [homepage](http://www.lamda.nju.edu.cn/huangkc/).
 - 💬 &nbsp;Feel free to reach out to me via [email](huangkc@lamda.nju.edu.cn)—I'm open to making new friends and discussing research collaborations!
 
-
-![huang-kc's GitHub stats](https://github-readme-stats.vercel.app/api?username=huang-kc)
-
 <details>
   <summary><b>🌟&nbsp;&nbsp;Statistics</b></summary>
-  <br/>
   ![huang-kc's GitHub stats](https://github-readme-stats.vercel.app/api?username=huang-kc)
 </details>
 
 <details>
   <summary><b>👻&nbsp;&nbsp;Zoo (my adorable snake)</b></summary>
-  <br/>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huang-kc/huang-kc/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huang-kc/huang-kc/output/github-contribution-grid-snake.svg">
