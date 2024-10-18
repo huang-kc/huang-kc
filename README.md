@@ -10,12 +10,16 @@ This is a small space I designed myself, where everyone can get to know me a bit
 
 ![huang-kc's GitHub stats](https://github-readme-stats.vercel.app/api?username=huang-kc)
 
-<picture>
+<details>
+  <summary><b>📈&nbsp;&nbsp;Zoo (adorable snake)</b></summary>
+  <br/>
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huang-kc/huang-kc/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huang-kc/huang-kc/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huang-kc/huang-kc/output/github-contribution-grid-snake.svg">
 </picture>
 
+</details>
 
 <!--
 **huang-kc/huang-kc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
