@@ -2,10 +2,10 @@
 This is a small space I designed myself, where everyone can get to know me a bit :rofl:
 
 
-- 🔭 &nbsp;I'm a third-year master's student at [LAMDA](http://www.lamda.nju.edu.cn/CH.MainPage.ashx) Lab, [Nanjing University](http://www.nju.edu.cn/), supervised by Professor [De-Chuan Zhan](https://www.yuque.com/zhandc/home/nk8z4o).
-- 🎓 &nbsp;I’m currently interested in **reinforcement learning** (imitation and unsupervised RL) and **multimodal large language models** (interpretability, etc.).
-- 👨‍💻 &nbsp;Find out more about me on my [homepage](http://www.lamda.nju.edu.cn/huangkc/).
-- 💬 &nbsp;Feel free to reach out to me via [email](huangkc@lamda.nju.edu.cn)—I'm open to making new friends and discussing research collaborations!
+- 🔭 &nbsp;I'm a **Ph.D. student** at the [College of Computing and Data Science](https://www.ntu.edu.sg/computing), [Nanyang Technological University](https://www.ntu.edu.sg/), advised by Prof. [Bo An](https://personal.ntu.edu.sg/boan/). Previously I received my B.Sc. and M.Sc. from the [LAMDA Group](https://www.lamda.nju.edu.cn/), [Nanjing University](http://www.nju.edu.cn/), advised by Prof. [De-Chuan Zhan](https://www.lamda.nju.edu.cn/zhandc/).
+- 🎓 &nbsp;I work on **world models** and interactive / streaming video generation, together with **reinforcement & imitation learning** and interpretability of **multimodal LLMs**.
+- 👨‍💻 &nbsp;Find out more about me on my [homepage](https://huang-kc.github.io/).
+- 💬 &nbsp;Feel free to reach out to me via [email](mailto:kaichen001@e.ntu.edu.sg)—I'm open to making new friends and discussing research collaborations!
 
 ![huang-kc's GitHub stats](https://github-readme-stats.vercel.app/api?username=huang-kc)
 
