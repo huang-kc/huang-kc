@@ -1,39 +1,44 @@
-### Hi there, I'm Kaichen <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-This is a small space I designed myself, where everyone can get to know me a bit :rofl:
+<h1 align="center">Kaichen Huang &nbsp;·&nbsp; 黄楷宸</h1>
 
+<p align="center">
+  <b>Ph.D. Student @ NTU (CCDS)</b> &nbsp;·&nbsp; World Models &nbsp;·&nbsp; Interactive Video Generation &nbsp;·&nbsp; Reinforcement Learning
+</p>
+
+<p align="center">
+  <a href="https://huang-kc.github.io"><img src="https://img.shields.io/badge/Homepage-2F5AA8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Homepage"></a>
+  <a href="https://scholar.google.com/citations?user=PQRU3nEAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="mailto:kaichen001@e.ntu.edu.sg"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://huang-kc.github.io/assets/kaichen_huang_cv.pdf"><img src="https://img.shields.io/badge/CV-2E7D46?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV"></a>
+  <a href="https://dblp.org/pid/368/5937.html"><img src="https://img.shields.io/badge/DBLP-1F70C1?style=for-the-badge&logo=dblp&logoColor=white" alt="DBLP"></a>
+  <a href="https://orcid.org/0009-0001-3226-7899"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
+</p>
+
+---
 
 - 🔭 &nbsp;I'm a **Ph.D. student** at the [College of Computing and Data Science](https://www.ntu.edu.sg/computing), [Nanyang Technological University](https://www.ntu.edu.sg/), advised by Prof. [Bo An](https://personal.ntu.edu.sg/boan/). Previously I received my B.Sc. and M.Sc. from the [LAMDA Group](https://www.lamda.nju.edu.cn/), [Nanjing University](http://www.nju.edu.cn/), advised by Prof. [De-Chuan Zhan](https://www.lamda.nju.edu.cn/zhandc/).
-- 🎓 &nbsp;I work on **world models** and interactive / streaming video generation, together with **reinforcement & imitation learning** and interpretability of **multimodal LLMs**.
-- 👨‍💻 &nbsp;Find out more about me on my [homepage](https://huang-kc.github.io/).
-- 💬 &nbsp;Feel free to reach out to me via [email](mailto:kaichen001@e.ntu.edu.sg)—I'm open to making new friends and discussing research collaborations!
+- 🎯 &nbsp;I work on **world models** and interactive / streaming video generation, together with **reinforcement & imitation learning** and interpretability of **multimodal LLMs**.
+- 🌱 &nbsp;Research experience at **Skywork AI**, **Shanghai AI Laboratory**, and **HKUST (Guangzhou)**.
+- 💬 &nbsp;Always open to new friends and research collaborations — feel free to [reach out](mailto:kaichen001@e.ntu.edu.sg)!
 
-![huang-kc's GitHub stats](https://github-readme-stats.vercel.app/api?username=huang-kc)
+### 📄 &nbsp;Selected Publications
+
+- **Matrix-Game 3.0 / 3.5** — real-time, streaming interactive world models with long-horizon memory &nbsp;·&nbsp; [arXiv](https://arxiv.org/abs/2604.08995)
+- **Direct Autoregressive Diffusion Distillation** *(Error Forcing)* &nbsp;·&nbsp; **ECCV 2026** &nbsp;·&nbsp; [paper](https://link.springer.com/chapter/10.1007/978-3-032-37196-6_5)
+- **SeeX** — separated world model for exploration under visual distraction &nbsp;·&nbsp; **NeurIPS 2024** &nbsp;·&nbsp; [paper](https://neurips.cc/virtual/2024/poster/95344)
+- **MINER** — mining modality-specific neurons in multimodal LLMs &nbsp;·&nbsp; [arXiv](https://arxiv.org/abs/2410.04819)
+
+<sub>→ Full list on my [homepage](https://huang-kc.github.io) and [Google Scholar](https://scholar.google.com/citations?user=PQRU3nEAAAAJ).</sub>
+
+### 📊 &nbsp;GitHub
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=huang-kc&show_icons=true&hide_border=true&count_private=true&title_color=2F5AA8&icon_color=2F5AA8&text_color=555&hide=contribs" alt="GitHub stats">
 
 <details>
-  <summary><b>🌟&nbsp;&nbsp;Statistics</b></summary>
-  TODO
-</details>
-
-<details>
-  <summary><b>👻&nbsp;&nbsp;Zoo (my adorable snake)</b></summary>
+  <summary><b>🐍 &nbsp;Zoo — my contribution snake</b></summary>
+  <br>
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huang-kc/huang-kc/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huang-kc/huang-kc/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huang-kc/huang-kc/output/github-contribution-grid-snake.svg">
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huang-kc/huang-kc/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huang-kc/huang-kc/output/github-contribution-grid-snake.svg">
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/huang-kc/huang-kc/output/github-contribution-grid-snake.svg">
+  </picture>
 </details>
-
-<!--
-**huang-kc/huang-kc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
