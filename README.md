@@ -28,17 +28,3 @@
 - **MINER** — mining modality-specific neurons in multimodal LLMs &nbsp;·&nbsp; [arXiv](https://arxiv.org/abs/2410.04819)
 
 <sub>→ Full list on my [homepage](https://huang-kc.github.io) and [Google Scholar](https://scholar.google.com/citations?user=PQRU3nEAAAAJ).</sub>
-
-### 📊 &nbsp;GitHub
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=huang-kc&show_icons=true&hide_border=true&count_private=true&title_color=2F5AA8&icon_color=2F5AA8&text_color=555&hide=contribs" alt="GitHub stats">
-
-<details>
-  <summary><b>🐍 &nbsp;Zoo — my contribution snake</b></summary>
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huang-kc/huang-kc/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huang-kc/huang-kc/output/github-contribution-grid-snake.svg">
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/huang-kc/huang-kc/output/github-contribution-grid-snake.svg">
-  </picture>
-</details>
