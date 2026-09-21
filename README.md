@@ -11,6 +11,7 @@
   <a href="https://huang-kc.github.io/assets/kaichen_huang_cv.pdf"><img src="https://img.shields.io/badge/CV-2E7D46?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV"></a>
   <a href="https://dblp.org/pid/368/5937.html"><img src="https://img.shields.io/badge/DBLP-1F70C1?style=for-the-badge&logo=dblp&logoColor=white" alt="DBLP"></a>
   <a href="https://orcid.org/0009-0001-3226-7899"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="https://www.linkedin.com/in/kaichen-huang-986423208/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
